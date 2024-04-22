@@ -29,7 +29,7 @@ Cloud Computing
 API Manipulations
 
 ## With Skills in ...
-Python(Numpy, Pandas, TensorFlow, PyTorch, Altair, Gurobi), R
-AWS, GCP, Azure, Docker, Kubernetes, GitHub, Kafka, Jenkins, Prometheus, Grafana 
-Apache Spark, Hadoop, MLFlow, Zeno, Power BI, Tableau, Stata
+Python(Numpy, Pandas, TensorFlow, PyTorch, Altair, Gurobi), R <br>
+AWS, GCP, Azure, Docker, Kubernetes, GitHub, Kafka, Jenkins, Prometheus, Grafana <br>
+Apache Spark, Hadoop, MLFlow, Zeno, Power BI, Tableau, Stata <br>
 SQL(MySQL, PostgreSQL), MongoDB Atlas
