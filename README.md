@@ -10,23 +10,21 @@ You can reach me at [https://www.linkedin.com/in/yi-hsueh-alex-yang/](https://ww
 
 ## Project Showcase
 Data Analytics Projects 🪄
-CitiBike Operation Analysis
-An interactive data visualization dashboard
-Analyze the rides trend for citibike
-New Categorization
-NLP
-Categorize 24 news articles into three distinct categories
-Student Height Prediction
-Regression Model
-Predict students’ height in the future
+RouteGenius
+Network Narrators
+Flight Price Analysis
+Telecom Churn Analysis
+Stock Price Prediction and Sentiment Analysis
+AI-Policy-LLM
+
 
 ## I'm capable of doing  🔧
-Data Analytics
-Data Science
-Machine Learning to Production
-Data Engineer(ETL)
-Cloud Computing
-API Manipulations
+  * Data Analytics
+  * Data Science
+  * Machine Learning to Production
+  * Data Engineer(ETL)
+  * Cloud Computing
+  * API Manipulations
 
 ## With Skills in ...
 Python(Numpy, Pandas, TensorFlow, PyTorch, Altair, Gurobi), R <br>
