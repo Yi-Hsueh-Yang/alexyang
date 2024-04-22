@@ -1,17 +1,18 @@
-# Alex Yang's Profolio
+# Alex Yang's Portfolio
 
 ## A Little About Me
-🏫 CMU Recent Grad (Heinz College), Major in Data Analytics 
-❤️‍🔥 I’m interested in data analytics, visualization, and consumer/user behavior.
-🔍 I’m currently seeking Data Analyst or Business Analyst job.
-🌱 I’m currently learning more about building business optimization and machine learning models.
-📫 How to reach me: https://www.linkedin.com/in/jennifer-kuan-hsuan-chiu/
+CMU Recent Grad (Heinz College), Major in Data Analytics 
+I’m interested in data analytics, visualization, and consumer/user behavior.
+Currently seeking a full-time sponsored position as a Data Engineer or Data Scientist.
+I am in the first year of my F1-OPT, the duration is 3 years.
+
+You can reach me at [https://www.linkedin.com/in/yi-hsueh-alex-yang/](https://www.linkedin.com/in/yi-hsueh-alex-yang/)
 
 ## Project Showcase
 Data Analytics Projects 🪄
 CitiBike Operation Analysis
 An interactive data visualization dashboard
-Analzye the rides trend for citibike
+Analyze the rides trend for citibike
 New Categorization
 NLP
 Categorize 24 news articles into three distinct categories
