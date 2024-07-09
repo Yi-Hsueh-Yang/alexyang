@@ -12,7 +12,7 @@ You can reach me at [https://www.linkedin.com/in/yi-hsueh-alex-yang/](https://ww
 
 1. [RouteGenius](https://github.com/Yi-Hsueh-Yang/RouteGenius.git)
    * RouteGenius is a cutting-edge solution that revolutionizes delivery network optimization through the implementation of the Capacitated Vehicle Routing Problem (CVRP) using Optimization through Gurobi and OptiGuide.
-2. [Network Narrators](https://github.com/cmu-seai/group-project-s24-network-narrators.git)
+2. [Network Narrators](https://github.com/Yi-Hsueh-Yang/NetworkNarrators.git)
    * An end-to-end movie Recommendation System, including multiple production-needed services, e.g. monitoring, auto-experimenting, testing, logging, continuous integration, auto-training, etc.
 3. [GameStop Short Squeeze Analysis](https://github.com/Yi-Hsueh-Yang/Flight-Price-Analysis.git)
    * Utilizing the yfinance package and Harvard Dataverse's sentiment data, this project digs into the [GameStop Short Squeeze Incident](https://en.wikipedia.org/wiki/GameStop_short_squeeze) that happened in 2021 by analyzing sentiment scores and employing time series models for insights on the influence of social media sentiment on stock prices and the importance of data shaping in LSTM performance.
