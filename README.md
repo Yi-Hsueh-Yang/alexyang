@@ -2,7 +2,7 @@
 
 ## A Little About Me
 - CMU Grad (Heinz College), Major in Data Analytics <br>
-- Interned at 2 emerging start-ups [EzOut](https://ezout.store/)(Most Recent Job) and [Culturora](https://www.culturora.com/), as a Data Science Intern and Data Analyst Intern, focusing on putting ML models into production to take care of customer satisfaction/retention.<be>
+- Interned at 2 emerging start-ups [EzOut](https://ezout.store/)(Most Recent Job) and [Culturora](https://www.culturora.com/), as a Data Science Intern(1 year) and Data Analyst Intern(3 months), focusing on putting ML models into production to take care of customer satisfaction/retention.<be>
 - Once collaborated with [Nexteer Automotive](https://www.nexteer.com/) as a Student Data Scientist on a project about creating a predictive model and interactive dashboard for greenhouse gas emission prediction.
 - I have my passion lies in the field of data and I am currently seeking a full-time sponsored position as a Data Engineer or Data Scientist.<br>
 - I am in the first year of my F1-OPT, the duration is 3 years.
