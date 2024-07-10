@@ -1,21 +1,21 @@
 # Alex Yang's Portfolio
 
 ## A Little About Me
-- CMU Recent Grad (Heinz College), Major in Data Analytics <br>
+- CMU Grad (Heinz College), Major in Data Analytics <br>
 - Interned at 2 emerging start-ups [EzOut](https://ezout.store/)(Current Job) and [Culturora](https://www.culturora.com/), as a Data Science Intern and Data Analyst Intern, focusing on putting ML models into production to take care of customer satisfaction/retention.<br>
 - I have my passion lies in the field of data and I am currently seeking a full-time sponsored position as a Data Engineer or Data Scientist.<br>
 - I am in the first year of my F1-OPT, the duration is 3 years.
 
 You can reach me at [https://www.linkedin.com/in/yi-hsueh-alex-yang/](https://www.linkedin.com/in/yi-hsueh-alex-yang/) or 1819pesa@gmail.com
 
-## Selected Projects Showcase
+## Selected Academic/Side Projects Showcase
 
 1. [RouteGenius](https://github.com/Yi-Hsueh-Yang/RouteGenius.git)
    * RouteGenius is a cutting-edge solution that revolutionizes delivery network optimization through the implementation of the Capacitated Vehicle Routing Problem (CVRP) using Optimization through Gurobi and OptiGuide.
 2. [Network Narrators](https://github.com/Yi-Hsueh-Yang/NetworkNarrators.git)
    * An end-to-end movie Recommendation System, including multiple production-needed services, e.g. monitoring, auto-experimenting, testing, logging, continuous integration, auto-training, etc.
 3. [GameStop Short Squeeze Analysis](https://github.com/Yi-Hsueh-Yang/Flight-Price-Analysis.git)
-   * Utilizing the yfinance package and Harvard Dataverse's sentiment data, this project digs into the [GameStop Short Squeeze Incident](https://en.wikipedia.org/wiki/GameStop_short_squeeze) that happened in 2021 by analyzing sentiment scores and employing time series models for insights on the influence of social media sentiment on stock prices and the importance of data shaping in LSTM performance.
+   * Utilizing the `yfinance` package and Harvard Dataverse's sentiment data, this project digs into the [GameStop Short Squeeze Incident](https://en.wikipedia.org/wiki/GameStop_short_squeeze) that happened in 2021 by analyzing sentiment scores and employing time series models for insights on the influence of social media sentiment on stock prices and the importance of data shape in LSTM performance.
 4. [Finding Patterns in the Stream: A Machine Learning Analysis of Netflix Movie Data](https://github.com/Yi-Hsueh-Yang/NetlixMovieAnalysis.git)
    * As consultants for Netflix, this project leverages data science techniques such as clustering, association rule mining, and topic modeling to analyze customer interactions and patterns on the platform, using datasets from the Netflix Prize, IMDb, GitHub, and Wikipedia to enhance customer retention and satisfaction by predicting IMDb ratings, examining plot descriptions, and identifying frequently watched movie sets.
 5. [AI-Policy-LLM](https://github.com/Yi-HsuehYang/94812_Personal_assignment1.git)
@@ -34,15 +34,17 @@ You can reach me at [https://www.linkedin.com/in/yi-hsueh-alex-yang/](https://ww
 
 
 ## I'm capable of doing  🔧
-  * Data Analytics
-  * Data Science
-  * Machine Learning to Production
+  * Data Analysis
+  * Data Modeling/Wrangling
+  * Database Management
+  * Machine Learning in Production (DevOps)
   * Data Engineer(ETL)
   * Cloud Computing
   * API Manipulations
+  * Backend Communication
 
 ## With Skills in ...
 Python(Numpy, Pandas, TensorFlow, PyTorch, Altair, Gurobi, Streamlit), R <br>
 AWS, GCP, Azure, Docker, Kubernetes, GitHub, Kafka, Jenkins, Prometheus, Grafana <br>
-Apache Spark, Hadoop, MLFlow, Zeno, Power BI, Tableau, Stata <br>
-SQL(MySQL, PostgreSQL), MongoDB Atlas
+PySpark, Hadoop, MLFlow, Power BI, Tableau, Stata <br>
+SQL(MySQL, PostgreSQL), MongoDB 
