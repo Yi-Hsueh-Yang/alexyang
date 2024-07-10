@@ -25,6 +25,8 @@ You can reach me at [https://www.linkedin.com/in/yi-hsueh-alex-yang/](https://ww
    * This project analyzes US domestic flight prices, with the goal of understanding the dynamics behind airline pricing to help travelers make informed decisions. By investigating factors like day of the week, seat availability, and destination differences within the same city, the project utilizes data visualization to reveal trends and patterns that could influence future purchasing strategies for consumers.
 7. [Telecom Churn Analysis](https://drive.google.com/drive/folders/19v5unicInrMjSnXscE7TRm1tFZFllfCk?usp=sharing)
    * This project developed predictive models to identify drivers of customer churn for a CA-based telecom company, enhancing data pipelines and utilizing advanced segmentation to improve retention strategies effectively.
+8. [Go Smart Awards](https://github.com/Yi-Hsueh-Yang/GSA.git)
+   * This project provides comprehensive insights into the various projects, highlighting key trends, technological advancements, and their impact on urban development. By examining these shortlisted entries, the project aims to uncover patterns and best practices that can inspire future smart city initiatives. This repository includes data analysis, visualizations, and detailed summaries of each project's contribution to smart city advancements.
    
 ## Other Works About AI Technology
 
