@@ -2,7 +2,7 @@
 
 ## Where am I right now
 
-I’m a Lead Data Scientist based in Chicago, IL. I have been with [Kero Gaming](https://kerosports.com/) for since June, 2024. Kero is an innovative startup reimagining sports engagement through gamification. I develop and optimize odds-setting and pricing models using advanced machine learning and statistical approaches. As the data science lead for the MLB vertical, I oversee projects from concept to deployment—transforming massive datasets into predictive insights that shape product performance and fan experience.
+I’m a Lead Data Scientist based in Chicago, IL. I have been with [Kero Gaming](https://kerosports.com/) since June, 2024. Kero is an innovative startup reimagining sports engagement through gamification. I develop and optimize odds-setting and pricing models using advanced machine learning and statistical approaches. As the data science lead for the MLB vertical, I oversee projects from concept to deployment—transforming massive datasets into predictive insights that shape product performance and fan experience.
 
 ## A Little About Me
 - CMU Grad (Heinz College), Major in Data Analytics <br>
