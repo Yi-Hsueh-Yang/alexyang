@@ -1,11 +1,15 @@
 # Alex Yang's Portfolio
 
+## Where am I right now
+
+I’m a Lead Data Scientist based in Chicago, IL. I have been with [Kero Gaming](https://kerosports.com/) for since June, 2024. Kero is an innovative startup reimagining sports engagement through gamification. I develop and optimize odds-setting and pricing models using advanced machine learning and statistical approaches. As the data science lead for the MLB vertical, I oversee projects from concept to deployment—transforming massive datasets into predictive insights that shape product performance and fan experience.
+
 ## A Little About Me
 - CMU Grad (Heinz College), Major in Data Analytics <br>
-- Interned at 2 emerging start-ups [EzOut](https://ezout.store/)(Most Recent Job) and [Culturora](https://www.culturora.com/), as a Data Science Intern(1 year) and Data Analyst Intern(3 months), focusing on putting ML models into production to take care of customer satisfaction/retention.<be>
+- Interned at 2 emerging start-ups [EzOut](https://ezout.store/) and [Culturora](https://www.culturora.com/), as a Data Science Intern(1 year) and Data Analyst Intern(3 months), focusing on putting ML models into production to take care of customer satisfaction/retention.<be>
 - Once collaborated with [Nexteer Automotive](https://www.nexteer.com/) as a Student Data Scientist on a project about creating a predictive model and interactive dashboard for greenhouse gas emission prediction.
-- I have my passion lies in the field of data and I am currently seeking a full-time sponsored position as a Data Engineer or Data Scientist.<br>
-- I am in the first year of my F1-OPT, the duration is 3 years.
+- I have my passion lies in the field of data engineering and applied science.<br>
+- This is my first year holding a H1-B visa in the US with Kero.
 
 You can reach me at [https://www.linkedin.com/in/yi-hsueh-alex-yang/](https://www.linkedin.com/in/yi-hsueh-alex-yang/) or 1819pesa@gmail.com
 
